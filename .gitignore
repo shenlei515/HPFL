@@ -79,3 +79,4 @@ pretrained model/
 experiments/standalone/result/*
 experiments/standalone/layer4/*
 CIFAR-10.1/*
+!Modular_market_pipeline_final4.pdf
