@@ -3,7 +3,7 @@
 Official code for paper "Hot-pluggable Federated Learning: Bridging General and Personalized FL via Dynamic Selection" (ICLR 2025).
 
 
-![](./Modular_market_pipeline_final4.pdf)
+![](./pipeline.png)
 
 ## Code Structure.
 
