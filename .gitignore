@@ -75,7 +75,7 @@ pretrained/
 pretrained model/
 *.pickle
 
-.history/
-experiments/standalone/result/
-experiments/standalone/layer4/
-CIFAR-10.1
+.history/*
+experiments/standalone/result/*
+experiments/standalone/layer4/*
+CIFAR-10.1/*
